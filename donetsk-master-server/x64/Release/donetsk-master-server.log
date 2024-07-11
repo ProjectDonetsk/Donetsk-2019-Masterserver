@@ -1,0 +1,10 @@
+﻿  main.cpp
+  server.cpp
+C:\Users\Sku-111\source\repos\donetsk-master-server\donetsk-master-server\server.cpp(207,19): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+C:\Users\Sku-111\source\repos\donetsk-master-server\donetsk-master-server\server.cpp(207,19): message : Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+C:\Users\Sku-111\source\repos\donetsk-master-server\donetsk-master-server\server.cpp(213,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  donetsk-master-server.vcxproj -> C:\Users\Sku-111\source\repos\donetsk-master-server\x64\Release\donetsk-master-server.exe
