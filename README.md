@@ -1,38 +1,57 @@
-# Donetsk: Modern Warfare 2019 Master Server
+# Donetsk: Modern Warfare 2019 Master Server (Community Fork)
 
-## Project Overview
+> ⚠️ **Disclaimer:** This project is **not affiliated with the original developers** of Project Donetsk. It exists for **educational and research purposes only** and receives no official support.
 
-**Project Name:** Donetsk: Modern Warfare 2019 Master Server
+We encourage you to check out [**iw8-mod** by xifil](https://github.com/xifil/iw8-mod), a transparent and actively developed open-source alternative for IW8 engine modding.
 
-**Purpose:** This project is designed to create a Master server to connect players from **Project Donetsk: Modern Warfare 2019** to a centralized server. The goal is to simplify the connection process for players, providing a seamless and efficient way to join and interact with others within the game.
+---
 
-## Features
+## 📌 Project Overview
 
-- **Centralized Server Connection:** The master server acts as a hub, connecting players from various locations to a single server, facilitating easy and efficient gameplay.
-- **Player Connectivity:** Ensures that players can find and connect to each other without the need for manual server selection or complicated connection steps.
-- **Streamlined Experience:** By using a master server, players experience reduced latency and improved connection stability, enhancing their overall gaming experience.
+**Name:** Donetsk: Modern Warfare 2019 Master Server (Community Maintained)  
+**Goal:** Provide a centralized matchmaking system for players using Donetsk-based game clients to connect more easily and reliably.
 
-## Warranty
+This repo represents an effort to document and archive the core functionality of the original Donetsk master server while promoting open, community-driven alternatives.
 
-This project comes with **no warranty**. The software is provided "as is," without any guarantees or promises regarding its functionality, performance, or suitability for any particular purpose.
+---
 
-## License
+## ✨ Features
 
-This project is licensed under the **MIT License**. The MIT License is a permissive free software license that allows for reuse within proprietary software, provided that all copies of the licensed software include a copy of the MIT License terms and the copyright notice. For more details, refer to the [LICENSE](https://github.com/ProjectDonetsk/Donetsk-Masterserver/blob/main/LICENSE) file.
+- **Centralized Server Connectivity:** Players are directed to a central server list, simplifying session discovery.
+- **Simplified Matchmaking:** Avoids manual IP-based connections or complex launch parameters.
+- **Improved Network Flow:** Allows more consistent multiplayer experiences via centralized handling.
 
-## Deprecation Notice
+---
 
-**Note:** This project is deprecated and is not supported by the official creators. While the source code remains available for use and modification, there will be no further updates, bug fixes, or official support provided. Users are encouraged to utilize the code at their own discretion and seek community support if needed.
+## ⚠️ No Warranty
 
-## GitHub Repository
+This project is provided **"as is"**, with **no guarantees** regarding its functionality, performance, or compatibility with modern MW2019 versions. Use at your own risk.
 
-The source code and related files for the Donetsk: Modern Warfare 2019 Master Server can be found on GitHub: [Donetsk-Masterserver Repository](https://github.com/ProjectDonetsk/Donetsk-Masterserver). This repository includes all the necessary files, documentation, and resources to understand and utilize the master server.
+---
 
-## Community and Contributions
+## 🪪 License
 
-Although the project is deprecated, contributions and suggestions are still welcome. Users can fork the repository, report issues, or submit pull requests. The community can continue to develop and improve the project based on their needs and preferences.
+This project is licensed under the **MIT License**. You may use, modify, and distribute this software freely, provided proper credit is given. Full license text can be found [here](https://github.com/ProjectDonetsk/Donetsk-Masterserver/blob/main/LICENSE).
 
-## Connect with Us
+---
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/banabyte)
-[![Website](https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://donetsk.live)
+## ❌ Original Deprecation Notice
+
+This project was originally deprecated and is **no longer maintained by the original authors**. This community fork preserves the codebase and invites others to improve upon it as needed.
+
+---
+
+## 📂 GitHub Repository
+
+You’re viewing the community-maintained archive of the original master server code.  
+🔗 [Donetsk-Masterserver Repository](https://github.com/ProjectDonetsk/Donetsk-Masterserver)
+
+---
+
+## 🤝 Community & Contributions
+
+This repo remains open to **pull requests, issues, and forks**. We support open collaboration and welcome developers, modders, and researchers to contribute or adapt this project for their own use.
+
+If you're looking for something **active and future-proof**, we **highly recommend**:
+
+- ✅ [iw8-mod by xifil](https://github.com/x
